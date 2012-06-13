@@ -1,0 +1,2 @@
+#!/bin/sh
+haml resume.haml > resume.html && sass resume.scss > resume.css
